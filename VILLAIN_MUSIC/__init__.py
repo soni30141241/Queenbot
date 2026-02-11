@@ -4,7 +4,6 @@ from VILLAIN_MUSIC.core.git import git
 from VILLAIN_MUSIC.core.userbot import Userbot
 from VILLAIN_MUSIC.misc import dbb, heroku
 
-from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
